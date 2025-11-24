@@ -12,6 +12,6 @@
 
 1：start.sh+index.js+package.json上传至服务器
 
-2：输入tuic/hy2/vless端口，保存
+2：Start.sh文件中输入tuic/hy2/vless端口，保存。TCP、UDP端口可共用，但tuic/hy2都是UDP，不能用同一端口，没有端口则留空，不启用该协议节点。
 
 3：开机
